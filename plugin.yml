@@ -1,0 +1,6 @@
+name: AntiDeath
+description: A Simple Plugin so that No Player dies on Server
+main: Foxypedia\AntiDeath
+api: 3.0.0
+version: 1.0
+author: Foxypedia
